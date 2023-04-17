@@ -1,0 +1,58 @@
+body{
+  background-color:aquamarine;
+  transition: background-color 1s;
+}
+h1{
+  text-align: center;
+  justify-content: center;
+  background-color: aquamarine;
+}
+h2{
+  text-align: center;
+  justify-content: center;
+  background-color: aquamarine;
+}
+h3{
+  text-align: center;
+  justify-content: center;
+  background-color: aquamarine;
+  transition: background-color .5s;
+}
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+  
+}
+.pink{
+  background-color: pink;
+  transition: background-color .5s;
+}
+.orange{
+  background-color: orange;
+   transition: background-color .5s;
+}
+.red{
+  background-color: red;
+   transition: background-color .5s;
+  
+}
+.blue{
+  background-color: blue;
+   transition: background-color .5s;
+}
+.green{
+  background-color: green;
+   transition: background-color .5s;
+}
+.purple{
+  background-color: purple;
+   transition: background-color .5s;
+}
+.default{
+  background-color: brown;
+  
+ 
+}
